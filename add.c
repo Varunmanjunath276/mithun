@@ -14,6 +14,7 @@ int main() {
 
     // Display the result
     printf("The sum of %d and %d is %d\n", num1, num2, sum);
+    printf("Hi buddy");
 
     return 0;
 }
